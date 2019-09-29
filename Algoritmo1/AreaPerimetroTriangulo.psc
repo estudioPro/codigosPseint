@@ -1,4 +1,5 @@
 Algoritmo AreaPerimetroTriangulo
+	Escribir 'Bienvenido'
 	Definir base, altura como real
 	Escribir 'Ingresa la base y la altura'
 	Escribir 'Altura '
