@@ -1,0 +1,9 @@
+Desarrollar un algoritmo que permita convertir calificaciones numericas, segun la siguiente tabla: donde 
+A = 19 y 20, 
+B = 16, 17 y 18, 
+C = 13, 14 y 15
+D = 10, 11 y 12
+E = 1, 2, 3, 4, 5, 6, 7, 8, 9
+Se asume que la nota esta comprendida entre 1 y 20
+
+Desarrollar un algoritmo que permita determinar a partir de un numero de dias, ingresados por consola, cuantos años, meses, semanas y dias constituyen constituyen el numero de dias proporcionados, utilizando la estructura mientras
